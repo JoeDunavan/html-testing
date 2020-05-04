@@ -16,10 +16,22 @@ header{
     color: #fff;
 }
 article{
-
+    position: relative;
     margin: 30px auto;
     text-align: center;
     background-color: cadetblue;
+}
+article h2{
+    position: absolute;
+    top: 200px;
+    left: 190px;
+    text-align: left;
+    font-size: 40px;
+    color: #fff;
+}
+article h2 span{
+    font-size: 70px;
+    color: #fff;
 }
 article img{
     width: 80%;
