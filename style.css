@@ -31,5 +31,23 @@ article p{
     text-align: center;
     padding: 0 0 20px 0;
 }
-
-
+section{
+    background-color: cadetblue;
+}
+section p{
+    padding: 20px;
+    width: 80%;
+    margin: 0 auto;
+}
+.dog1{
+    float: left;
+    padding: 20px;
+}
+.dog2{
+    float: right;
+    padding: 20px;
+}
+.dog3{
+    float: left;
+    padding: 20px;
+}
